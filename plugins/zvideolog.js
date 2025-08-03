@@ -29,9 +29,9 @@ D ☞ tiger 🐯 video logo
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
         title: "JEEPERS CREEPER-XMD",
-        body: "Pambe Kwa, kingsleybravo381@gmail.com",
+        body: "Pambe Kwa, sir bravin",
         thumbnailUrl: "https://files.catbox.moe/0ql1k8.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
+        sourceUrl: "https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
