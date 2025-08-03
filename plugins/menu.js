@@ -1,6 +1,3 @@
-Make me by add a coding url of a song at these coding by a text message 
-
-
 "use strict";
 const { ezra } = require("../fredi/ezra");
 const moment = require("moment-timezone");
