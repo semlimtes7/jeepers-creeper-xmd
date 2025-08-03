@@ -47,6 +47,5 @@
 </a>
 
                            
-  <a href="https:                                    
-  <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="https://files.catbox.moe/in6pcx.mp4" />
-</a>
+                          
+  
