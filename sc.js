@@ -49,10 +49,10 @@ const date = moment().format('DD/MM/YYYY');
 >https://wa.link/3rc9x7
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
+> https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/toxiclover-tech/TOXIC-LOVER-MD
+> https://github.com/black-spider436/jeepers-creeper-xmd
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
