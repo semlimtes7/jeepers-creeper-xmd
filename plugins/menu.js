@@ -1,3 +1,6 @@
+Make me by add a coding url of a song at these coding by a text message 
+
+
 "use strict";
 const { ezra } = require("../fredi/ezra");
 const moment = require("moment-timezone");
@@ -27,7 +30,7 @@ const toFancyLowercaseFont = (text) => {
 ezra({ 
     nomCom: "menu", 
     categorie: "bravo-Menu", 
-    reaction: "☢️", 
+    reaction: "🏹", 
     nomFichier: __filename 
 }, async (dest, zk, commandeOptions) => {
     const { repondre, prefixe, nomAuteurMessage } = commandeOptions;
@@ -53,14 +56,16 @@ ezra({
 
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
-    const img = 'https://files.catbox.moe/206o6m.jpg';
+    const img = 'https://files.catbox.moe/pmh64f.jpg';
+    const imgs = 'https://files.catbox.moe/206o6m.jpg';
 
     const infoMsg = `
 ╭───────────⊷
-*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  👿 JEEPERS CREEPER-XMD 👿*
+*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  🏹 JEEPERS CREEPER-XMD 🏹*
 *┋* *ᴘʀᴇғɪx :* [ ${s.PREFIXE} ]
 *┋* *ᴍᴏᴅᴇ :* ${mode}
 *┋* *ᴅᴀᴛᴇ  :* ${date}
+*┋*made in kenya: Eldoret 
 *┋* *ᴘʟᴀᴛғᴏʀᴍ :* ${os.platform()}
 *┋* *ᴏᴡɴᴇʀ ɪs : sir bravin*
 *┋* *ᴘʟᴜɢɪɴs ᴄᴍᴅ :* ${cm.length}
@@ -74,7 +79,7 @@ ezra({
 ╭───┈┈┈┈────⊷ `;
         for (const cmd of coms[cat]) {
             menuMsg += `          
-*┋* ${toFancyLowercaseFont(cmd)}`;   
+*┋🩸 ${toFancyLowercaseFont(cmd)}`;   
         }
         menuMsg += `
 ╰───┈┈┈┈────⊷`;
@@ -85,6 +90,7 @@ ezra({
 
     try {
         await zk.sendMessage(dest, { 
+            image: { url: "https://files.catbox.moe/pmh64f.jpg" },
             caption: infoMsg + menuMsg,
             contextInfo: {
                 isForwarded: true,
@@ -95,8 +101,9 @@ ezra({
                 },
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: "👿sir bravin 👿",
+                    title: "🏹 JEEPERS CREEPE XMD🏹",
                     body: "🔑🗝️ Command List",
+                    thumbnailUrl: "https://files.catbox.moe/206o6m.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o",
                     mediaType: 1,
                     renderLargerThumbnail: true
