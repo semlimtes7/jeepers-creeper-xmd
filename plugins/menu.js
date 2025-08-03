@@ -53,12 +53,11 @@ ezra({
 
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
-    const img = 'https://files.catbox.moe/sigghy.jpg';
-    const imgs = 'https://files.catbox.moe/sigghy.jpg';
+    const img = 'https://files.catbox.moe/206o6m.jpg';
 
     const infoMsg = `
 ╭───────────⊷
-*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  🚨 JEEPERS CREEPER-XMD 🚨*
+*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  👿 JEEPERS CREEPER-XMD 👿*
 *┋* *ᴘʀᴇғɪx :* [ ${s.PREFIXE} ]
 *┋* *ᴍᴏᴅᴇ :* ${mode}
 *┋* *ᴅᴀᴛᴇ  :* ${date}
@@ -82,11 +81,10 @@ ezra({
     }
     
     menuMsg += `
-> @made by meshack matheka 2025\n`;
+> @made by sir bravin 2025\n`;
 
     try {
         await zk.sendMessage(dest, { 
-            image: { url: "https://files.catbox.moe/sigghy.jpg" },
             caption: infoMsg + menuMsg,
             contextInfo: {
                 isForwarded: true,
@@ -97,9 +95,8 @@ ezra({
                 },
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: "🚨MAKAMESCO-MD 🚨",
+                    title: "👿sir bravin 👿",
                     body: "🔑🗝️ Command List",
-                    thumbnailUrl: "https://files.catbox.moe/sigghy.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o",
                     mediaType: 1,
                     renderLargerThumbnail: true
