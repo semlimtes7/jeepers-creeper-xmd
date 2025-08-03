@@ -42,9 +42,9 @@
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
-<a href="https:                                       
-  <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="My Video" />
-</a>
+<div style="width: 200px; height: 200px; background-color:                                                                                              
+  <h1 style="color: #786c3b;">Cartoon Box</h1>
+</div>
 
                            
                           
