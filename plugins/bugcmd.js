@@ -117,7 +117,7 @@ async function sendbug(dest, zk, ms, repondre, amount, victims, bug) {
 // bug menu
 ezra(
     {
-        nomCom: "fredi-crush",
+        nomCom: "sir bravin-crush",
         categorie: category,
         reaction: reaction
     },
@@ -134,7 +134,7 @@ ezra(
             )
         );
         const tumbUrl =
-            "https://files.catbox.moe/ho8d5w.jpg";
+            "https://files.catbox.moe/9nzxt5.jpg";
         let menu = `${mono}Hello✌️ ${ms.pushName}
 ${timewisher(time)}
 
@@ -168,12 +168,12 @@ ${timewisher(time)}
                                 externalAdReply: {
                                     showAdAttribution: true,
                                     title: `${conf.BOT}`,
-                                    body: `Bot Created By ${conf.OWNER_NAME}`,
+                                    body: `Bot Created By sir bravin${conf.OWNER_NAME}`,
                                     thumbnail: { url: tumbUrl },
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
+                                        "https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o",
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
