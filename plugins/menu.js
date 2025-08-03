@@ -58,12 +58,12 @@ ezra({
 
     const infoMsg = `
 ╭───────────⊷
-*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  🚨MAKAMESCO-MD🚨*
+*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  🚨 JEEPERS CREEPER-XMD 🚨*
 *┋* *ᴘʀᴇғɪx :* [ ${s.PREFIXE} ]
 *┋* *ᴍᴏᴅᴇ :* ${mode}
 *┋* *ᴅᴀᴛᴇ  :* ${date}
 *┋* *ᴘʟᴀᴛғᴏʀᴍ :* ${os.platform()}
-*┋* *ᴏᴡɴᴇʀ ɪs : Makamesco*
+*┋* *ᴏᴡɴᴇʀ ɪs : sir bravin*
 *┋* *ᴘʟᴜɢɪɴs ᴄᴍᴅ :* ${cm.length}
 ╰───────────⊷\n`;
     
@@ -91,8 +91,8 @@ ezra({
             contextInfo: {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363418628641913@newsletter",
-                    newsletterName: "MAKAMESCO-MD",
+                    newsletterJid: "120363404784570099@newsletter",
+                    newsletterName: "JEEPERD CREEPER-XMD",
                     serverMessageId: -1
                 },
                 forwardingScore: 999,
@@ -100,7 +100,7 @@ ezra({
                     title: "🚨MAKAMESCO-MD 🚨",
                     body: "🔑🗝️ Command List",
                     thumbnailUrl: "https://files.catbox.moe/sigghy.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S",
+                    sourceUrl: "https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
