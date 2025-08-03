@@ -11,9 +11,9 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=pair+site" alt="Typing SVG" /></a>
   </div>
 
-
-  <tr>
-      <td><a href="https://verification-7rzrm1pno-toxic-lovers-projects.vercel.app  " target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+</div>
+<td><a href="https://dashboard.heroku.com/new?template=https://verification-7rzrm1pno-toxic-lovers-projects.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+</td>
       <td><a href="https://jeepers-creepers-xmd-session-link-1.onrender.com" target="_blank"><img src="https://img.shields.io/badge/pair-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -31,10 +31,9 @@
   <table>
     <tr>
       ## 🔹 HEROKU HOSTING
-<p align="center">
-  <a href="https://verification-7rzrm1pno-toxic-lovers-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/DEPLOY NOW-blue?style=for-the-badge&logo=heroku&logoColor=white" width="220" height="38.45" />
-  </a> 
+      </div>
+<td><a href="https://dashboard.heroku.com/new?template=https://verification-7rzrm1pno-toxic-lovers-projects.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+</td>
 
 # 🪀  SUPPORT CHANNEL
 
