@@ -42,10 +42,6 @@
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
-<div style="width: 200px; height: 200px; background-color:                                                                                              
-  <h1 style="color: #786c3b;">Cartoon Box</h1>
-</div>
-
                            
                           
   
