@@ -9,7 +9,7 @@ ezra(
         let z =
             "Hello I'm *✧JEEPERS CREEPER-XMD✧* \n\n " +
             "I'm a powerful Whatsapp Bot supporting you";
-        let d = " Made By *sir kingsleybravo381@gmail.com*";
+        let d = " Made By *sir bravine*";
         let varmess = z + d;
         var img = "https://files.catbox.moe/adeedv.mp4";
         await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
