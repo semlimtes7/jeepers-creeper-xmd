@@ -19,7 +19,7 @@ const s = require("../set")
 ezra(
     {
         nomCom : 'warn',
-        categorie : 'jeepers-Group'
+        categorie : 'jeepers creeper xmd-Group'
         
     },async (dest,zk,commandeOptions) => {
 
