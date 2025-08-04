@@ -1,9 +1,8 @@
- Release Date:th August 2025 
-
+ 
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=jeepers+creeper+xmd;released+on+3th+August" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=jeepers+creeper+xmd;released+on+3th+August;by+sir+bravin;made+in+kenya🌎" alt="Typing Animation">
 
 ## Hi there 👋
 <p align="center">
