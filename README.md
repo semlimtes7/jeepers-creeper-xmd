@@ -46,7 +46,7 @@
   </a>
 </div>
    <p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+<img alt="Development" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V2Z3cya2N3YjBtNWtid3JlZW1nbmEzeDBycHN3NmFnbWZianUwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ9dYn2dLIljAVG/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##                        
  
@@ -56,4 +56,4 @@
 - *sir bravin have no any access with whatapp official so if you account gets ban i will be you yourself  led to your account ban.*
   
   #### `TOTAL PROFILE VIEWS 🧚```                     
-  
+    sir bravin 
