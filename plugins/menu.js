@@ -53,8 +53,8 @@ ezra({
 
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
-    const img = 'https://files.catbox.moe/pmh64f.jpg';
-    const imgs = 'https://files.catbox.moe/206o6m.jpg';
+    const img = 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ2Zm95aTNoeDZmNWNmMW1yaXp1OGM4dWt3cDIwYjlvbmV5dnNtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJc6V49VwDXtiOQ/giphy.gif';
+    const imgs = 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ2Zm95aTNoeDZmNWNmMW1yaXp1OGM4dWt3cDIwYjlvbmV5dnNtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJc6V49VwDXtiOQ/giphy.gif';
 
     const infoMsg = `
 ╭───────────⊷
@@ -87,7 +87,7 @@ ezra({
 
     try {
         await zk.sendMessage(dest, { 
-            image: { url: "https://files.catbox.moe/pmh64f.jpg" },
+            image: { url: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ2Zm95aTNoeDZmNWNmMW1yaXp1OGM4dWt3cDIwYjlvbmV5dnNtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJc6V49VwDXtiOQ/giphy.gif" },
             caption: infoMsg + menuMsg,
             contextInfo: {
                 isForwarded: true,
@@ -100,7 +100,7 @@ ezra({
                 externalAdReply: {
                     title: "🏹 JEEPERS CREEPE XMD🏹",
                     body: "🔑🗝️ Command List",
-                    thumbnailUrl: "https://files.catbox.moe/206o6m.jpg",
+                    thumbnailUrl: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ2Zm95aTNoeDZmNWNmMW1yaXp1OGM4dWt3cDIwYjlvbmV5dnNtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJc6V49VwDXtiOQ/giphy.gif",
                     sourceUrl: "https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o",
                     mediaType: 1,
                     renderLargerThumbnail: true
