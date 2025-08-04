@@ -1,3 +1,9 @@
+
+<div align="center">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=jeepers+creeper" alt="Typing Animation">
+
 ## Hi there 👋
 <p align="center">
 <img alt="Development" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ2Zm95aTNoeDZmNWNmMW1yaXp1OGM4dWt3cDIwYjlvbmV5dnNtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJc6V49VwDXtiOQ/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
