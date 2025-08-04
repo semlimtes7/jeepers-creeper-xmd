@@ -8,7 +8,7 @@
 <p align="center">
 <img alt="Development" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ2Zm95aTNoeDZmNWNmMW1yaXp1OGM4dWt3cDIwYjlvbmV5dnNtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJc6V49VwDXtiOQ/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-##
+
 
 
 <div align="center">
@@ -26,12 +26,6 @@
       <td><a href="https://jeepers-creepers-xmd-session-link-1.onrender.com" target="_blank"><img src="https://img.shields.io/badge/jeepescreepersession-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-
-
-
-
-
-  
   > **🤜🤛🤜🤛🤜🤛🤜🤛🤜🤛**
   <a href='https://jeepers-creepers-xmd-session-link-1.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
@@ -53,7 +47,10 @@
    <p align="center">
 <img alt="Development" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V2Z3cya2N3YjBtNWtid3JlZW1nbmEzeDBycHN3NmFnbWZianUwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ9dYn2dLIljAVG/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-##                        
+
+  Release Date: 3th August 2025 by @sir bravin 
+
+![Powered By sir bravin Tech](https://github.com/suzuki-0000/CountdownLabel/raw/master/Screenshots/example01.gif
  
 ##
 - *jeeper creeper xmd is not made by WhatsApp Inc. Sometimes or misusing the bot might ban your WhatsApp account!*
