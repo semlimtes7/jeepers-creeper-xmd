@@ -29,7 +29,6 @@
     
     
  <tr>
-  > **🤜🤛🤜🤛🤜🤛🤜🤛🤜🤛**
   <a href='https://jeepers-creepers-xmd-session-link-1.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
