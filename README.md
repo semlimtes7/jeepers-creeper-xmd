@@ -49,7 +49,7 @@
 ##
 - *jeeper creeper xmd is not made by WhatsApp Inc. Sometimes or misusing the bot might ban your WhatsApp account!*
 - *In that case, I'm not responsible for banning your account.*
-- *Use jeeper creeper at your own risk by keeping this warning in mind.*
+- *sir bravin have no any access with whatapp official so if you account gets ban i will be you yourself  led to your account ban.*
   
   #### `TOTAL PROFILE VIEWS 🧚```                     
   
