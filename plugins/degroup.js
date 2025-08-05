@@ -660,7 +660,7 @@ ezra({nomCom:"tag",categorie:'Group',reaction:"🎤"},async(dest,zk,commandeOpti
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'DAVINCS-MD',
+          pack: 'Sir bravin',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
