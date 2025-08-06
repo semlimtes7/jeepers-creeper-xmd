@@ -18,7 +18,7 @@ const { bugtext5 } = require("../fredi/fredi/bugtext5");
 const { bugtext6 } = require("../fredi/fredi/bugtext6");
 const { bugpdf } = require("../fredi/fredi/bugpdf.js");
 
-const category = "Fredi-Wa-Crush";
+const category = "bravin Crush";
 const reaction = "🤯";
 
 const mess = {};
