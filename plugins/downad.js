@@ -97,7 +97,7 @@ ezra({
     }, { quoted: ms });
 
     const apis = [
-      `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl))}`,
+      `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(video.Url)}`,
       `https://www.dark-yasiya-api.site/download/ytmp3?url=${encodeURIComponent(video.url)}`,
       `https://api.giftedtech.web.id/api/download/dlmp3?url=${encodeURIComponent(video.url)}&apikey=gifted-md`,
       `https://api.dreaded.site/api/ytdl/audio?url=${encodeURIComponent(video.url)}`
