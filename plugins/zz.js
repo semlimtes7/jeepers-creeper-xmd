@@ -66,7 +66,7 @@ ezra({
 
     // List of APIs to try
     const apis = [
-      `https://api-rin-tohsaka.vercel.app/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
+      `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
       `https://apis.davidcyriltech.my.id/download/ytmp3?url=${encodeURIComponent(videoUrl)}`,
       `https://www.dark-yasiya-api.site/download/ytmp3?url=${encodeURIComponent(videoUrl)}`,
       `https://api.giftedtech.web.id/api/download/dlmp3?url=${encodeURIComponent(videoUrl)}&apikey=gifted-md`,
@@ -96,9 +96,9 @@ ezra({
 ┊ *Quality:* High
 ┊ *Powered:* by JEEPERS CREEPER TECH
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/toxiclover-tech/TOXIC-LOVER-MD
+🌐 *Bot Repo:* https://github.com/black-spider436/jeepers-creeper-xmd
 
-> regards kingsleybravo381@gmail.com`,
+> regards sir bravin `,
         audio: { url: downloadUrl },
         mimetype: 'audio/mp4',
         contextInfo: {
@@ -120,9 +120,9 @@ ezra({
 ┊ *Quality:* High
 ┊ *Powered:* by JEEPERS CREEPER TECH
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/toxiclover-tech/TOXIC-LOVER-MD
+🌐 *Bot Repo:* https://github.com/black-spider436/jeepers-creeper-xmd
 
-> regards kingsleybravo381@gmail.com`,
+> regards sir bravin `,
         document: { url: downloadUrl },
         mimetype: 'audio/mpeg',
         contextInfo: {
@@ -144,7 +144,7 @@ ezra({
 ┊ *Quality:* High
 ┊ *Powered:* by jeepers creepers tech
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/toxiclover-tech/TOXIC-LOVER-MD
+🌐 *Bot Repo:* https://github.com/black-spider436/jeepers-creeper-xmd
 > regards kingsleybravo381@gmail.com`,
         document: { url: downloadUrl },
         mimetype: 'audio/mp4',
@@ -214,7 +214,7 @@ ezra({
 
     // List of APIs to try
     const apis = [
-      `https://api-rin-tohsaka.vercel.app/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
+      `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
       `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
       `https://www.dark-yasiya-api.site/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
       `https://api.giftedtech.web.id/api/download/dlmp4?url=${encodeURIComponent(videoUrl)}&apikey=gifted-md`,
@@ -244,9 +244,9 @@ ezra({
 ┊ *Quality:* High
 ┊ *Powered:* by JEEPERS CREEPER TECH
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/toxiclover-tech/TOXIC-LOVER-MD
+🌐 *Bot Repo:* https://github.com/black-spider436/jeepers-creeper-xmd
 
-> regards kingsleybravo381@gmail.com`,
+> regards sir bravin `,
         video: { url: downloadUrl },
         mimetype: 'video/mp4',
         contextInfo: {
@@ -268,9 +268,9 @@ ezra({
 ┊ *Quality:* High
 ┊ *Powered:* by JEEPERS CREEPER TECH
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/toxiclover-tech/TOXIC-LOVER-MD
+🌐 *Bot Repo:* https://github.com/black-spider436/jeepers-creeper-xmd
 
-> regards kingsleybravo381@gmail.com`,
+> regards sir bravin `,
         document: { url: downloadUrl },
         mimetype: 'video/mp4',
         contextInfo: {
