@@ -33,7 +33,7 @@ const sleep = _0x45325b => {
   });
 };
 ezra({
-  'nomCom': "tgs",
+  'nomCom': "tgs2",
   'categorie': "sir bravin-Mods"
 }, async (_0x143e7d, _0x3b0370, _0x15f653) => {
   const {
@@ -67,7 +67,7 @@ ezra({
     for (let _0x38ec03 = 0x0; _0x38ec03 < _0x44b299.data.result.stickers.length; _0x38ec03++) {
       let _0x42b08d = await axios.get("https://api.telegram.org/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/getFile?file_id=" + _0x44b299.data.result.stickers[_0x38ec03].file_id);
       let _0x5c7f74 = await axios({
-        'method': "get",
+        'method': "get2",
         'url': "https://api.telegram.org/file/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/" + _0x42b08d.data.result.file_path,
         'responseType': "arraybuffer"
       });
@@ -92,7 +92,7 @@ ezra({
   }
 });
 ezra({
-  'nomCom': "crew",
+  'nomCom': "crew2",
   'categorie': "sir bravin-Mods"
 }, async (_0x523338, _0x79a81f, _0x2fc80d) => {
   const {
@@ -126,7 +126,7 @@ ezra({
   });
 });
 ezra({
-  'nomCom': "left",
+  'nomCom': "left2",
   'categorie': "sir bravin-Mods"
 }, async (_0x3b801f, _0x142d76, _0x158330) => {
   const {
@@ -150,7 +150,7 @@ ezra({
   await _0x142d76.groupLeave(_0x3b801f);
 });
 ezra({
-  'nomCom': "join",
+  'nomCom': "join2",
   'categorie': "sir bravin-Mods'
 }, async (_0x2129bf, _0x35835f, _0x26ca83) => {
   const {
@@ -174,7 +174,7 @@ ezra({
   });
 });
 ezra({
-  'nomCom': 'jid',
+  'nomCom': 'jid2',
   'categorie': "sir bravin-Mods"
 }, async (_0x2d9f10, _0x3242fc, _0x3d486d) => {
   const {
@@ -205,7 +205,7 @@ ezra({
   });
 });
 ezra({
-  'nomCom': 'block',
+  'nomCom': 'block2',
   'categorie': "sir bravin-Mods"
 }, async (_0x30b838, _0x57030f, _0x2385fc) => {
   const {
@@ -238,7 +238,7 @@ ezra({
   ;
 });
 ezra({
-  'nomCom': 'unblock',
+  'nomCom': 'unblock2',
   'categorie': 'sir bravin-Mods'
 }, async (_0x5c3e8b, _0x210a85, _0x2b6be9) => {
   const {
@@ -271,7 +271,7 @@ ezra({
   ;
 });
 ezra({
-  'nomCom': "kickall",
+  'nomCom': "kickall2",
   'categorie': "sir bravin-Group",
   'reaction': '📣'
 }, async (_0x131387, _0x4670bb, _0x30c8b3) => {
@@ -312,7 +312,7 @@ ezra({
   }
 });
 ezra({
-  'nomCom': "ban",
+  'nomCom': "ban2",
   'categorie': 'sir bravin-Mods'
 }, async (_0x558d14, _0x1a0634, _0xc4dc54) => {
   const {
@@ -362,7 +362,7 @@ ezra({
   }
 });
 ezra({
-  'nomCom': "bangroup",
+  'nomCom': "bangroup2",
   'categorie': "sir bravin-Mods"
 }, async (_0x30affe, _0x12d503, _0x3384fa) => {
   const {
@@ -413,7 +413,7 @@ ezra({
   }
 });
 ezra({
-  'nomCom': "onlyadmin",
+  'nomCom': "onlyadmin2",
   'categorie': "sir bravin-Group"
 }, async (_0x41aef8, _0xf33a12, _0x3a24c6) => {
   const {
