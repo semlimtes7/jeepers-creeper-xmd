@@ -145,7 +145,7 @@ ezra({
 ┊ *Powered:* by jeepers creepers tech
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
 🌐 *Bot Repo:* https://github.com/black-spider436/jeepers-creeper-xmd
-> regards kingsleybravo381@gmail.com`,
+> regards sir bravin `,
         document: { url: downloadUrl },
         mimetype: 'audio/mp4',
         contextInfo: {
