@@ -1,10 +1,7 @@
-JEEPERS CREEPER DEPLOYMENT SITE
-   .HEROKU.COM
-   .RENDER.COM
-   .BOT HOSTING PANEL.COM
-   .KATABUMP.COM
-   .ADN ETC
- 
+</h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=deployment+platforms;heroku;render;pannel;katabut;and+etc" alt="Typing SVG" /></a>
+  </div>
+  
 <div align="center">
 
 <h1 align="center">
