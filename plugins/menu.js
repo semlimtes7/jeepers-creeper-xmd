@@ -1,3 +1,159 @@
+//sir bravin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "use strict";
 const { ezra } = require("../fredi/ezra");
 const moment = require("moment-timezone");
@@ -84,11 +240,7 @@ ezra({
     
     menuMsg += `
 > @made by sir bravin 2025\n`;
-try {
-  await zk.sendMessage(dest, { 
-    audio: { url: "https://files.catbox.moe/4k9bit.mp3" }, 
-    mimetype: 'audio/mp4' 
-  });
+
     try {
         await zk.sendMessage(dest, { 
             image: { url: "https://files.catbox.moe/ifxi43.jpg" },
