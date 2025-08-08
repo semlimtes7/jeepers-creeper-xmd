@@ -259,18 +259,7 @@ ezra({
                     thumbnailUrl: "https://files.catbox.moe/fxa7et.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
                     mediaType: 1,
-                    renderLargerThumbnail: true
-                    // Send menu audio only once
-        await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/rgmwzs.mp3' },
-            mimetype: 'audio/mp4',
-            ptt: true,       
-        }, { quoted: mek });
-
-        const messageID = sentMsg.key.id;
-
-        // Complete menu data
-        const menuData = {
+                   renderLargerThumbnail: true
                 }
             }
         });
