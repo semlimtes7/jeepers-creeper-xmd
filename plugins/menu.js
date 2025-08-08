@@ -1,4 +1,12 @@
-//sir bravin 
+//bravin 🩸
+
+
+
+
+
+
+
+
 
 
 
@@ -259,7 +267,7 @@ ezra({
                     thumbnailUrl: "https://files.catbox.moe/fxa7et.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
                     mediaType: 1,
-                   renderLargerThumbnail: true
+                    renderLargerThumbnail: true
                 }
             }
         });
