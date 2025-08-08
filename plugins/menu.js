@@ -92,7 +92,7 @@ ezra({
             contextInfo: {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363404784570099@newsletter",
+                    newsletterJid: "120363366284524544@newsletter",
                     newsletterName: "JEEPERD CREEPER-XMD",
                     serverMessageId: -1
                 },
@@ -101,7 +101,7 @@ ezra({
                     title: "🏹 JEEPERS CREEPE XMD🏹",
                     body: "🔑🗝️ Command List",
                     thumbnailUrl: "https://files.catbox.moe/fxa7et.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o",
+                    sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
