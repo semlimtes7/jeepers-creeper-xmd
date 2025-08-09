@@ -225,8 +225,8 @@ ezra({
 
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
-    const img = 'https://files.catbox.moe/ifxi43.jpg';
-    const imgs = 'https://files.catbox.moe/fxa7et.jpg';
+    const img = 'https://files.catbox.moe/82nl3l.jpg';
+    const imgs = 'https://files.catbox.moe/tcvqtj.jpg';
 
     const infoMsg = `
 ╭───────────⊷
@@ -259,7 +259,7 @@ ezra({
 
     try {
         await zk.sendMessage(dest, { 
-            image: { url: "https://files.catbox.moe/ifxi43.jpg" },
+            image: { url: "https://files.catbox.moe/tcvqtj.jpg" },
             caption: infoMsg + menuMsg,
             contextInfo: {
                 isForwarded: true,
@@ -272,7 +272,7 @@ ezra({
                 externalAdReply: {
                     title: "🏹 JEEPERS CREEPER XMD🏹",
                     body: "🔑🗝️ Command List",
-                    thumbnailUrl: "https://files.catbox.moe/fxa7et.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/82nl3l.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
                     mediaType: 1,
                     renderLargerThumbnail: true
