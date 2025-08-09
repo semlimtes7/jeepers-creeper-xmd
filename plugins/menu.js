@@ -270,7 +270,7 @@ ezra({
                 },
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: "🏹 JEEPERS CREEPE XMD🏹",
+                    title: "🏹 JEEPERS CREEPER XMD🏹",
                     body: "🔑🗝️ Command List",
                     thumbnailUrl: "https://files.catbox.moe/fxa7et.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
