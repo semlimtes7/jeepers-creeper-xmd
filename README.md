@@ -46,5 +46,4 @@
 - *sir bravin have no any access with whatapp official so if you account gets ban i will be you yourself  led to your account ban.*
   
   #### `TOTAL PROFILE VIEWS 🧚```                     
-    sir bravin 
-https://readme-typing-svg.demolab.com/demo/?font=Sir+bravin
+   
