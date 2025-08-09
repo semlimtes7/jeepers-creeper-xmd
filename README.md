@@ -47,3 +47,4 @@
   
   #### `TOTAL PROFILE VIEWS 🧚```                     
     sir bravin 
+https://readme-typing-svg.demolab.com/demo/?font=Sir+bravin
