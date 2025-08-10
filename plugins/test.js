@@ -16,7 +16,7 @@ ezra(
         //console.log("montest")
     }
 );
-console.log("mon test");
+console.log("mon test2");
 /*module.exports.commande = () => {
   var nomCom = ["hello","t"]
   var reaction="😊"
