@@ -31,7 +31,7 @@ D ☞ tiger 🐯 video logo
         title: "JEEPERS CREEPER-XMD",
         body: "Pambe Kwa, sir bravin",
         thumbnailUrl: "https://files.catbox.moe/0ql1k8.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o",
+        sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
