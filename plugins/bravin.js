@@ -303,7 +303,7 @@ ezra({
 
 ezra({
   nomCom: 'pm-permit',
-  categorie: "Maka-Mods"
+  categorie: "bravo-Mods"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
