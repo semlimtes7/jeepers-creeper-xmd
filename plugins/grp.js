@@ -8,7 +8,7 @@ const {
 ezra({
   'nomCom': "broadcast",
   'aliase': "spread",
-  'categorie': "creepers-Group",
+  'categorie': "creeper-Group",
   'reaction': '⚪'
 }, async (_0x3a9780, _0x8d12f2, _0xd2ef18) => {
   const {
@@ -164,6 +164,6 @@ ezra({
 }, (_0x55c7a6, _0x32ca34, _0x3df3e8) => handleRequestCommand(_0x55c7a6, _0x32ca34, _0x3df3e8, "approve"));
 ezra({
   'nomCom': "reject",
-  'categorie': "Fredi-Group",
+  'categorie': "creeper-Group",
   'reaction': '⚪'
 }, (_0x3d080e, _0x1b64b4, _0x2a76fd) => handleRequestCommand(_0x3d080e, _0x1b64b4, _0x2a76fd, "reject"));
