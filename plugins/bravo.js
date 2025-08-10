@@ -9,7 +9,7 @@ const {
 ezra({
   'nomCom': "wagroup",
   'reaction': '🤨',
-  'categorie': "Support-Owner",
+  'categorie': "sir bravin Support",
   'nomFichier': __filename
 }, async (_0x3258e7, _0x4c4732, _0x13b70c) => {
   console.log("Commande saisie !!!s");
