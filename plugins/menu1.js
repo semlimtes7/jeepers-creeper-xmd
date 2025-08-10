@@ -52,18 +52,18 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
         menuMsg += `
 ❁━━〔 *${cat}* 〕━━❁
 ╭━━══••══━━••⊷
-║◆┊ `;
+║🦠┊ `;
         for (const cmd of coms[cat]) {
             menuMsg += `          
-║◆┊ ${s.PREFIXE}  *${cmd}*`;    
+║🦠┊ ${s.PREFIXE}  *${cmd}*`;    
         }
         menuMsg += `
-║◆┊
+║🦠┊
 ╰─━━═••═━━••⊷`;
     }
     
     menuMsg += `
-> Made By JEEPERS CREEPER-XMD ᴛᴇᴄʜ\n`;
+> Made By sir bravin ᴛᴇᴄʜ\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
@@ -74,7 +74,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
                 externalAdReply: {
                     title: "JEEPERS CREEPER-XMD MENU LIST",
                     body: "Dont worry  I have more tap to follow",
-                    thumbnailUrl: "https://files.catbox.moe/9nzxt5.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/uoxzsc.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o",
                     mediaType: 1,
                     renderLargerThumbnail: true
