@@ -8,8 +8,8 @@ const moment = require("moment-timezone");
 const set = require(__dirname + "/../set");
 moment.tz.setDefault('' + set.TIMEZONE);
 ezra({
-  'nomCom': "ping",
-  'categorie': "General-Fredi"
+  'nomCom': "ping3",
+  'categorie': "General-braviii"
 }, async (_0x72e714, _0x36286d, _0x2f6f18) => {
   let {
     ms: _0x2bb02d
@@ -64,7 +64,7 @@ ezra({
     repondre: _0x1843be
   } = _0x544c94;
   try {
-    const _0x273ae5 = await axios.get("https://github.com/toxiclover-tech/TOXIC-LOVER-MD");
+    const _0x273ae5 = await axios.get("https://github.com/black-spider436/jeepers-creeper-xmd/fork");
     const _0x540861 = _0x273ae5.data;
     const _0x5abda2 = moment(_0x540861.updated_at).format("DD/MM/YYYY");
     const _0xb0dc07 = "\nThis is\n\n> JEEPERS CREEPER-XMD\n\n*Don't forget fork and star repo*\n\n> *sᴛᴀʀs:* " + _0x540861.stargazers_count + "\n> *Forks:* " + _0x540861.forks_count + "\n> *Watchera:* " + _0x540861.watchers + "\n> *Updated:* " + _0x5abda2 + "\n> *Repo Link:*" + _0x540861.html_url + "*\n\n®";
@@ -76,8 +76,8 @@ ezra({
       'contextInfo': {
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': "120363404784570099@newsletter",
-          'newsletterName': "toxic lover",
+          'newsletterJid': "120363366284524544@newsletter",
+          'newsletterName': "sir bravin",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,
@@ -97,12 +97,12 @@ ezra({
       },
       'mimetype': "audio/mp4",
       'ptt': true,
-      'caption': "*🫧 JEEPERS CREEPER-XMD repo song 🫧",
+      'caption': "*🩸 JEEPERS CREEPER-XMD repo song 🩸",
       'contextInfo': {
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363366284524544@newsletter",
-          'newsletterName': "toxic lover",
+          'newsletterName': "sir bravin",
           'serverMessageId': -1
         }
       }
