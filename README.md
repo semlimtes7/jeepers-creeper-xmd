@@ -27,7 +27,7 @@
  
   <tr>
 <p align="center">
-  <a href="sir-bravin-verification.vercel.app" target="_blank">
+  <a href="black-bravine-verification.vercel.app" target="_blank">
     <img alt="Deploy on Heroku" src="https://img.shields.io/badge/HEROKU-ONE CLICK DEPLOY-7952B3?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black"/>
   </a>
 </p>
@@ -41,7 +41,7 @@
 
 ### ☁️ Heroku
 <p align="center">
-  <a href="sir-bravin-verification.vercel.app" target="_blank">
+  <a href="black-bravine-verification.vercel.app" target="_blank">
     <img alt="Deploy on Heroku" src="https://img.shields.io/badge/HEROKU-ONE CLICK DEPLOY-7952B3?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black"/>
   </a>
 </p>
