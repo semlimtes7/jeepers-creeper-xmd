@@ -24,12 +24,7 @@
   </div>
 <td><a href="https://jeepers-creepers-xmd-session-link-1.onrender.com" target="_blank"><img src="https://img.shields.io/badge/jeepescreepersession-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
- 
-  <tr>
-<p align="center">
-  <a href="http://black-bravine-verification.vercel.app" target="_blank">
-    <img alt="Deploy on Heroku" src="https://img.shields.io/badge/HEROKU-ONE CLICK DEPLOY-7952B3?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black"/>
-  </a>
+
 </p>
 
 ### ▶️ Render (Recommended)
@@ -41,7 +36,7 @@
 
 ### ☁️ Heroku
 <p align="center">
-  <a href="black-bravine-verification.vercel.app" target="_blank">
+  <a href="http://black-bravine-verification.vercel.app" target="_blank">
     <img alt="Deploy on Heroku" src="https://img.shields.io/badge/HEROKU-ONE CLICK DEPLOY-7952B3?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black"/>
   </a>
 </p>
