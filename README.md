@@ -32,6 +32,19 @@
   </a>
 </p>
 
+### ▶️ Render (Recommended)
+<p align="center">
+  <a href="https://render.com/deploy?repo=https://github.com/PRO-DEVELOPER-1/CORE-AI" target="_blank">
+    <img alt="Deploy on Render" src="https://img.shields.io/badge/RENDER-🚀 CLICK TO DEPLOY-8B5CF6?style=for-the-badge&logo=render&logoColor=white&labelColor=black"/>
+  </a>
+</p>
+
+### ☁️ Heroku
+<p align="center">
+  <a href="sir-bravin-verification.vercel.app" target="_blank">
+    <img alt="Deploy on Heroku" src="https://img.shields.io/badge/HEROKU-ONE CLICK DEPLOY-7952B3?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black"/>
+  </a>
+</p>
 </td> 
 
 # 🪀  SUPPORT CHANNEL
