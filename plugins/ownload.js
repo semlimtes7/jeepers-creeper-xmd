@@ -23,10 +23,10 @@ function formatDate(dateStr) {
 
 module.exports = [
  {
-  name: 'tiktok',
+  name: 'tiktok3',
   aliases: ['tk', 'tiktokdl'],
   description: 'Download TikTok media by link.',
-  category: 'Download',
+  category: 'Download-sir',
 
   execute: async (king, msg, args, fromJid) => {
     const query = args.join(' ').trim();
@@ -68,10 +68,10 @@ module.exports = [
   }
 }, 
  {
-  name: 'insta',
+  name: 'insta2',
   aliases: ['igdl', 'ig', 'instagram'],
   description: 'Download media from an Instagram link.',
-  category: 'Download',
+  category: 'Download-sir',
 
   get flashOnly() {
     return franceking();
@@ -99,12 +99,12 @@ module.exports = [
 
       if (isVideo) {
         await king.sendMessage(fromJid, {
-          video: { url: igmp4 },
+          video: { url3: igmp4 },
           caption: '_*✨ Downloaded by Flash-Md-V2*_'
         }, { quoted: msg });
       } else {
         await king.sendMessage(fromJid, {
-          image: { url: igmp4 },
+          image: { url3: igmp4 },
           caption: '_*✨ Downloaded by Flash-Md-V2*_'
         }, { quoted: msg });
       }
@@ -120,7 +120,7 @@ module.exports = [
   name: 'posts',
   aliases: ['igposts', 'instafeed'],
   description: 'Download recent Instagram posts of a given username.',
-  category: 'Download',
+  category: 'Download-sir',
 
   get flashOnly() {
     return franceking();
@@ -151,12 +151,12 @@ module.exports = [
         if (item.type === 'image') {
           await king.sendMessage(fromJid, {
             image: { url: item.url },
-            caption: `📸 _✨ Downloaded by Flash-Md-V2_`
+            caption: `📸 _✨ Downloaded by JEEPERS CREEPER-XMD_`
           }, { quoted: msg });
         } else if (item.type === 'video') {
           await king.sendMessage(fromJid, {
             video: { url: item.url },
-            caption: `🎥 _✨ Downloaded by Flash-Md-V2_`
+            caption: `🎥 _✨ Downloaded by JEEPERS CREEPER-XMD_`
           }, { quoted: msg });
         }
       }
@@ -223,8 +223,8 @@ _Use this info to explore or install the package via terminal_`;
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363238139244263@newsletter',
-                            newsletterName: 'FLASH-MD',
+                            newsletterJid: '120363366284524544@newsletter',
+                            newsletterName: 'sir bravin',
                             serverMessageId: -1
                         }
                     }
@@ -237,13 +237,13 @@ _Use this info to explore or install the package via terminal_`;
         }
     },
 {
-  name: "video-dl",
+  name: "video-dl2",
     get flashOnly() {
   return franceking();
 },
   aliases: ["vddownload"],
   description: "Download high-quality videos from social media URLs",
-  category: "Download",
+  category: "Download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 
@@ -260,14 +260,14 @@ _Use this info to explore or install the package via terminal_`;
 
       if (data.status && data.BK9 && data.BK9.high) {
         await sock.sendMessage(chatId, {
-          video: { url: data.BK9.high },
-          caption: "🎥 *FLASH-MD* Video Downloader (High Quality)",
+          video: { url2: data.BK9.high },
+          caption: "🎥 *JEEPERS CREEPER-XMD* Video Downloader (High Quality)",
           contextInfo: {
             forwardingScore: 1,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: '120363238139244263@newsletter',
-              newsletterName: 'FLASH-MD',
+              newsletterJid: '120363366284524544@newsletter',
+              newsletterName: 'jeepers creeper-xmd',
               serverMessageId: -1
             }
           }
@@ -292,13 +292,13 @@ _Use this info to explore or install the package via terminal_`;
   }
 }, 
     {
-  name: "tgs",
+  name: "tgs2",
         get flashOnly() {
   return franceking();
 },
   aliases: ["tg"],
   description: "Download and send all stickers from a Telegram pack",
-  category: "Download",
+  category: "Download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 
@@ -321,8 +321,8 @@ _Use this info to explore or install the package via terminal_`;
               forwardingScore: 1,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363238139244263@newsletter',
-                newsletterName: 'FLASH-MD',
+                newsletterJid: '120363366284524544@newsletter',
+                newsletterName: 'SIR BRAVIN',
                 serverMessageId: -1
               }
             }
@@ -352,9 +352,9 @@ _Use this info to explore or install the package via terminal_`;
     get flashOnly() {
   return franceking();
 },
-  aliases: ["xvideodl"],
+  aliases: ["xvideodl2"],
   description: "Download adult video from xnxx in high quality",
-  category: "Download",
+  category: "Download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 
@@ -384,7 +384,7 @@ _Use this info to explore or install the package via terminal_`;
         }, { quoted: msg });
       }
 
-      const caption = `*🔞 THE FLASH-MD X-Video Downloader 🥵*\n\n` +
+      const caption = `*🔞 THE JEEPERS CREEPER-XMD X-Video Downloader 🥵*\n\n` +
                       `• *Title:* ${videoData.title}\n` +
                       `• *Duration:* ${videoData.duration}s\n` +
                       `• *Info:* ${videoData.info}\n` +
@@ -397,8 +397,8 @@ _Use this info to explore or install the package via terminal_`;
           forwardingScore: 1,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363238139244263@newsletter',
-            newsletterName: 'FLASH-MD',
+            newsletterJid: '120363366284524544@newsletter',
+            newsletterName: 'sir bravin',
             serverMessageId: -1
           }
         }
@@ -420,7 +420,7 @@ _Use this info to explore or install the package via terminal_`;
 },
   aliases: [],
   description: "Search for videos on XNXX",
-  category: "General",
+  category: "download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 
@@ -470,7 +470,7 @@ _Use this info to explore or install the package via terminal_`;
       get flashOnly() {
   return franceking();
 },
-  category: "Download",
+  category: "Download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 
@@ -508,7 +508,7 @@ _Use this info to explore or install the package via terminal_`;
       await sock.sendMessage(
         chatId,
         {
-          document: { url },
+          document: { url2 },
           fileName: filename.endsWith(".zip") ? filename : filename + ".zip",
           mimetype: "application/zip",
         },
@@ -548,13 +548,13 @@ _Use this info to explore or install the package via terminal_`;
   },
 },  
 {
-  name: "fb",
+  name: "fb3",
     get flashOnly() {
   return franceking();
 },
-  aliases: ["fbdl", "facebook", "fb1"],
+  aliases: ["fbdl3", "facebook", "fb1"],
   reaction: "📽️",
-  category: "Download",
+  category: "Download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 
@@ -562,8 +562,8 @@ _Use this info to explore or install the package via terminal_`;
       forwardingScore: 1,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363238139244263@newsletter',
-        newsletterName: 'FLASH-MD',
+        newsletterJid: '120363366284524544@newsletter',
+        newsletterName: 'sir bravin',
         serverMessageId: -1
       }
     };
@@ -587,13 +587,13 @@ _Use this info to explore or install the package via terminal_`;
 
           await sock.sendMessage(chatId, {
             video: { url: result.hd },
-            caption: "_╰►FB VIDEO DOWNLOADED BY_ *FLASH-MD*",
+            caption: "_╰►FB VIDEO DOWNLOADED BY_ *JEEPERS CREEPER-XMD*",
             contextInfo
           }, { quoted: msg });
         })
         .catch(async () => {
           await sock.sendMessage(chatId, {
-            text: "try fb2 on this link"
+            text: "try fb3 on this link"
           }, { quoted: msg });
         });
     } catch (error) {
@@ -604,13 +604,13 @@ _Use this info to explore or install the package via terminal_`;
   }
 }, 
    {
-  name: "fb2",
+  name: "fb3",
        get flashOnly() {
   return franceking();
 },
-  aliases: ["fbdl2", "fb2", "facebook2"],
+  aliases: ["fbdl3", "fb3", "facebook3"],
   reaction: "📽️",
-  category: "Download",
+  category: "Download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 
@@ -618,8 +618,8 @@ _Use this info to explore or install the package via terminal_`;
       forwardingScore: 1,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363238139244263@newsletter',
-        newsletterName: 'FLASH-MD',
+        newsletterJid: '120363366284524544@newsletter',
+        newsletterName: 'sir bravin',
         serverMessageId: -1
       }
     };
@@ -643,7 +643,7 @@ _Use this info to explore or install the package via terminal_`;
 
           await sock.sendMessage(chatId, {
             video: { url: result.sd },
-            caption: "_╰►FACEBOOK VIDEO DOWNLOADED BY_ *FLASH-MD*",
+            caption: "_╰►FACEBOOK VIDEO DOWNLOADED BY_ *JEEPERS CREEPER-XMD*",
             contextInfo
           }, { quoted: msg });
         })
@@ -666,7 +666,7 @@ _Use this info to explore or install the package via terminal_`;
   return franceking();
 },
   aliases: ["chem", "study"],
-  category: "User",
+  category: "download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 
@@ -674,8 +674,8 @@ _Use this info to explore or install the package via terminal_`;
       forwardingScore: 1,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363238139244263@newsletter',
-        newsletterName: 'FLASH-MD',
+        newsletterJid: '120363366284524544@newsletter',
+        newsletterName: 'sir bravin',
         serverMessageId: -1
       }
     };
@@ -703,7 +703,7 @@ _Use this info to explore or install the package via terminal_`;
           `Discovered By: ${result.discovered_by}`;
 
         await sock.sendMessage(chatId, {
-          text: "A moment, FLASH-MD is sending your results"
+          text: "A moment, JEEPERS CREEPER-XMD is sending your results"
         }, { quoted: msg });
 
         if (result.image) {
@@ -736,7 +736,7 @@ _Use this info to explore or install the package via terminal_`;
   return franceking();
 },
   aliases: ["bpink"],
-  category: "Download",
+  category: "Download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 
@@ -744,8 +744,8 @@ _Use this info to explore or install the package via terminal_`;
       forwardingScore: 1,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363238139244263@newsletter',
-        newsletterName: 'FLASH-MD',
+        newsletterJid: '120363366284524544@newsletter',
+        newsletterName: 'sir bravin',
         serverMessageId: -1
       }
     };
@@ -776,13 +776,13 @@ _Use this info to explore or install the package via terminal_`;
       }
 
       await sock.sendMessage(chatId, {
-        text: "FLASH-MD is sending you 5 BLACKPINK IMAGES"
+        text: "sir bravin is sending you 5 BLACKPINK IMAGES"
       }, { quoted: msg });
 
       for (const imageUrl of selectedImages) {
         await sock.sendMessage(chatId, {
           image: { url: imageUrl },
-          caption: "_╰►DOWNLOADED BY_ *FLASH-MD*",
+          caption: "_╰►DOWNLOADED BY_ *JEEPER CREEPER-XMD*",
           contextInfo
         }, { quoted: msg });
       }
@@ -806,7 +806,7 @@ _Use this info to explore or install the package via terminal_`;
 }, 
   aliases: ['igstories', 'stories'],
   description: 'Fetch Instagram stories using.',
-  category: 'Download',
+  category: 'Download-sir',
 
   async execute(king, msg, args, fromJid) {
     const username = args[0]?.toLowerCase(); 
@@ -828,7 +828,7 @@ _Use this info to explore or install the package via terminal_`;
       const stories = res.items.slice(0, 5); 
 
       for (const [index, item] of stories.entries()) {
-        const caption = `📖 *${username}* - Story ${index + 1} of ${stories.length}\n\n_*✨Downloaded by Flash-Md-V2*_`;
+        const caption = `📖 *${username}* - Story ${index + 1} of ${stories.length}\n\n_*✨Downloaded by Jeepers Creeper-Xmd*_`;
 
         if (item.type === 'image') {
           await king.sendMessage(fromJid, {
@@ -860,17 +860,17 @@ _Use this info to explore or install the package via terminal_`;
        get flashOnly() {
   return franceking();
 },
-  aliases: ["mf", "mfdl"],
+  aliases: ["mf2", "mfdl2"],
   description: "Download files from MediaFire",
-  category: "Download",
+  category: "Download-sir",
   execute: async (sock, msg, args) => {
     const chatId = msg.key.remoteJid;
 const contextInfo = {
   forwardingScore: 1,
   isForwarded: true,
   forwardedNewsletterMessageInfo: {
-    newsletterJid: '120363238139244263@newsletter',
-    newsletterName: 'FLASH-MD',
+    newsletterJid: '120363366284524544@newsletter',
+    newsletterName: 'sir Bravin',
     serverMessageId: -1
   }
 };
