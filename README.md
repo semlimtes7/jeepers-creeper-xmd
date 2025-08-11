@@ -25,22 +25,23 @@
 <td><a href="https://jeepers-creepers-xmd-session-link-1.onrender.com" target="_blank"><img src="https://img.shields.io/badge/jeepescreepersession-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
 
-</p>
+ ### 📤 Deployment Options
 
-### ▶️ Render (Recommended)
-<p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/PRO-DEVELOPER-1/CORE-AI" target="_blank">
-    <img alt="Deploy on Render" src="https://img.shields.io/badge/RENDER-🚀 CLICK TO DEPLOY-8B5CF6?style=for-the-badge&logo=render&logoColor=white&labelColor=black"/>
-  </a>
-</p>
+<!-- ✅ Heroku Deploy Button (Fixed) -->
+<a href="https://heroku.com/deploy?template=https://github.com/black-spider436/jeepers-creeper-xmd" target="_blank">
+  <img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy on Heroku" width="220">
+</a>
 
-### ☁️ Heroku
-<p align="center">
-  <a href="https://sir-bravin-verification.vercel.app" target="_blank">
-    <img alt="Deploy on Heroku" src="https://img.shields.io/badge/HEROKU-ONE CLICK DEPLOY-7952B3?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black"/>
-  </a>
-</p>
-</td> 
+<!-- ➕ Render Deploy Button (New) -->
+<a href="https://render.com" target="_blank">
+  <img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render" width="220">
+</a>
+
+<!-- Optional Panel Deployment -->
+<a href="panel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DEPLOY%20ON%20PANEL-red?style=for-the-badge&logo=serverfault" alt="Deploy on Panel" width="220">
+</a>
+
 
 # 🪀  SUPPORT CHANNEL
 
